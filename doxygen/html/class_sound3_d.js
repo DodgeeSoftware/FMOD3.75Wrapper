@@ -1,0 +1,28 @@
+var class_sound3_d =
+[
+    [ "Sound3D", "class_sound3_d.html#ad964dca0e149bb0bedec7581df5679de", null ],
+    [ "~Sound3D", "class_sound3_d.html#a1c0303a0027520d8d640c6060322ee84", null ],
+    [ "Sound3D", "class_sound3_d.html#a1e0f612f44c5bb254f9fe738e3f69435", null ],
+    [ "getMaxDistance", "class_sound3_d.html#ae0aa278c539cb0cf2531d09245ae6df9", null ],
+    [ "getMinDistance", "class_sound3_d.html#a6fa0b6bfbb5fa2dfab6a0bc05aa173df", null ],
+    [ "getX", "class_sound3_d.html#a9e0b2ab4177549979f911eb011fa183c", null ],
+    [ "getXVelocity", "class_sound3_d.html#a6a1e8e175d1029c42b953e77102dbf59", null ],
+    [ "getY", "class_sound3_d.html#ad8f929f2e0a51494c4f920a9ff924a4b", null ],
+    [ "getYVelocity", "class_sound3_d.html#aa17a537a5e3db860a5e74bddf7056762", null ],
+    [ "getZ", "class_sound3_d.html#a3429e315cc0c961cdc606d82bf3b723a", null ],
+    [ "getZVelocity", "class_sound3_d.html#aafecce947706cef00d33a710a34f0508", null ],
+    [ "operator=", "class_sound3_d.html#a5e473219c1b24b628434e4a3f85da442", null ],
+    [ "play", "class_sound3_d.html#a2f8e3e82248367995c50d71ae056a19d", null ],
+    [ "playEx", "class_sound3_d.html#a0d1737b5e5f93c8e1e394343509a6ce5", null ],
+    [ "setMinMaxDistance", "class_sound3_d.html#a74c5130a4a78f1c6e679605775bfaa48", null ],
+    [ "setPosition", "class_sound3_d.html#a7815301df4de7857b063377555d7f062", null ],
+    [ "setVelocity", "class_sound3_d.html#ac23b0a119a071818dc394ec82b1813fd", null ],
+    [ "maxDistance", "class_sound3_d.html#af74b314fdc3909b4bb8ae88d5a01779f", null ],
+    [ "minDistance", "class_sound3_d.html#aed7be582d0c925f35bbe06abc47b9557", null ],
+    [ "x", "class_sound3_d.html#a232c1b449f257a8ec9a0efbaa2ab7c2f", null ],
+    [ "xVelocity", "class_sound3_d.html#aedb673cb605b93c278e05672f48c0306", null ],
+    [ "y", "class_sound3_d.html#a662f662059df48afb4e99379e2b864ba", null ],
+    [ "yVelocity", "class_sound3_d.html#a0f4011b8e8631c54b5ae59c1713b3b78", null ],
+    [ "z", "class_sound3_d.html#add599247c7dfe1982cb5f81ec687499e", null ],
+    [ "zVelocity", "class_sound3_d.html#ad6fce776d492c241db657d1de5573105", null ]
+];

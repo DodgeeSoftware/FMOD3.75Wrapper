@@ -1,0 +1,139 @@
+C:/myPrograms/FMODWrapper/Stream/Stream.h:429: warning: Reached end of file while still inside a (nested) comment. Nesting level 2 (probable line reference: 364, 151)
+C:/myPrograms/FMODWrapper/Sound/Sound.h:343: warning: Reached end of file while still inside a (nested) comment. Nesting level 1 (probable line reference: 281)
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:25: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:49: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Music/Music.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:31: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:225: warning: Found unknown command `\value'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:38: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:49: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/DSP/DSPEffectEcho.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/FMODGlobals.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/GameAudio.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:25: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Music/Music.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Music/Music.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:31: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:38: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:3: warning: Found unknown command `\Author'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:49: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:49: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:132: warning: The following parameters of AudioSystem::setListener(float x, float y, float z, float xVelocity, float yVelocity, float zVelocity, float xForward, float yForward, float zForward, float upX, float upY, float upZ) are not documented:
+  parameter 'xForward'
+  parameter 'yForward'
+  parameter 'zForward'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:107: warning: Found unknown command `\wasInit'
+C:/myPrograms/FMODWrapper/DSP/DSPEffectEcho.h:53: warning: The following parameters of DSPEffectEcho::DSPCallBack(void *pOriginalBuffer, void *pNewBuffer, int length, void *pUserData) are not documented:
+  parameter 'length'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:25: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:25: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:93: warning: The following parameters of IDSPEffect::callBackRouter(void *pOriginalBuffer, void *pNewBuffer, int length, void *pUserData) are not documented:
+  parameter 'length'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:108: warning: The following parameters of IDSPEffect::DSPCallBack(void *pOriginalBuffer, void *pNewBuffer, int length, void *pUserData)=0 are not documented:
+  parameter 'length'
+C:/myPrograms/FMODWrapper/Music/Music.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Music/Music.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Music/Music.h:162: warning: argument 'OrderNo' of command @param is not found in the argument list of Music::getPatternLength(int orderNo)
+C:/myPrograms/FMODWrapper/Music/Music.h:162: warning: The following parameters of Music::getPatternLength(int orderNo) are not documented:
+  parameter 'orderNo'
+C:/myPrograms/FMODWrapper/Music/Music.h:238: warning: argument 'the' of command @param is not found in the argument list of Music::setOrderCallback(FMUSIC_CALLBACK callback, int orderStep)
+C:/myPrograms/FMODWrapper/Music/Music.h:238: warning: The following parameters of Music::setOrderCallback(FMUSIC_CALLBACK callback, int orderStep) are not documented:
+  parameter 'orderStep'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:281: warning: argument 'state' of command @param is not found in the argument list of Sound::enable()
+C:/myPrograms/FMODWrapper/Sound/Sound.h:278: warning: Found unknown command `\breif'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:121: warning: Found unknown command `\briefIs'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:129: warning: argument 'minDisance' of command @param is not found in the argument list of Sound2D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:129: warning: argument 'maxDisance' of command @param is not found in the argument list of Sound2D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:129: warning: The following parameters of Sound2D::setMinMaxDistance(float minDistance, float maxDistance) are not documented:
+  parameter 'minDistance'
+  parameter 'maxDistance'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:139: warning: argument 'minDisance' of command @param is not found in the argument list of Sound3D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:139: warning: argument 'maxDisance' of command @param is not found in the argument list of Sound3D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:139: warning: The following parameters of Sound3D::setMinMaxDistance(float minDistance, float maxDistance) are not documented:
+  parameter 'minDistance'
+  parameter 'maxDistance'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:31: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:31: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:99: warning: argument 'pFMODSOundSample' of command @param is not found in the argument list of SoundSample::setFMODSoundSample(FSOUND_SAMPLE *pFMODSoundSample)
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:99: warning: The following parameters of SoundSample::setFMODSoundSample(FSOUND_SAMPLE *pFMODSoundSample) are not documented:
+  parameter 'pFMODSoundSample'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:38: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:225: warning: Found unknown command `\value'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:38: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:364: warning: argument 'state' of command @param is not found in the argument list of Stream::enable()
+C:/myPrograms/FMODWrapper/Stream/Stream.h:297: warning: argument 'FSOUND_SAMPLE' of command @param is not found in the argument list of Stream::getSample()
+C:/myPrograms/FMODWrapper/Stream/Stream.h:361: warning: Found unknown command `\breif'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:116: warning: Found unknown command `\bief'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:148: warning: argument 'loopflag' of command @param is not found in the argument list of Stream::setLoop(bool loopFlag)
+C:/myPrograms/FMODWrapper/Stream/Stream.h:148: warning: The following parameters of Stream::setLoop(bool loopFlag) are not documented:
+  parameter 'loopFlag'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:127: warning: argument 'true' of command @param is not found in the argument list of Stream::setPaused(bool pausedFlag)
+C:/myPrograms/FMODWrapper/Stream/Stream.h:127: warning: The following parameters of Stream::setPaused(bool pausedFlag) are not documented:
+  parameter 'pausedFlag'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:350: warning: argument 'pUserData' of command @param is not found in the argument list of Stream::streamEndCallBackRouter(FSOUND_STREAM *pFMODStream, void *buff, int len, void *pUserdata)
+C:/myPrograms/FMODWrapper/Stream/Stream.h:350: warning: The following parameters of Stream::streamEndCallBackRouter(FSOUND_STREAM *pFMODStream, void *buff, int len, void *pUserdata) are not documented:
+  parameter 'pUserdata'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:225: warning: Found unknown command `\value'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:132: warning: argument 'minDisance' of command @param is not found in the argument list of Stream2D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:132: warning: argument 'maxDisance' of command @param is not found in the argument list of Stream2D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:132: warning: The following parameters of Stream2D::setMinMaxDistance(float minDistance, float maxDistance) are not documented:
+  parameter 'minDistance'
+  parameter 'maxDistance'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:147: warning: argument 'pUserData' of command @param is not found in the argument list of Stream2D::streamEndCallBackRouter(FSOUND_STREAM *pFMODStream, void *buff, int len, void *pUserdata)
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:147: warning: The following parameters of Stream2D::streamEndCallBackRouter(FSOUND_STREAM *pFMODStream, void *buff, int len, void *pUserdata) are not documented:
+  parameter 'pUserdata'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:225: warning: Found unknown command `\value'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:145: warning: argument 'minDisance' of command @param is not found in the argument list of Stream3D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:145: warning: argument 'maxDisance' of command @param is not found in the argument list of Stream3D::setMinMaxDistance(float minDistance, float maxDistance)
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:145: warning: The following parameters of Stream3D::setMinMaxDistance(float minDistance, float maxDistance) are not documented:
+  parameter 'minDistance'
+  parameter 'maxDistance'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:160: warning: argument 'pUserData' of command @param is not found in the argument list of Stream3D::streamEndCallBackRouter(FSOUND_STREAM *pFMODStream, void *buff, int len, void *pUserdata)
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:160: warning: The following parameters of Stream3D::streamEndCallBackRouter(FSOUND_STREAM *pFMODStream, void *buff, int len, void *pUserdata) are not documented:
+  parameter 'pUserdata'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:49: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:25: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Music/Music.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:31: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:38: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/System/AudioSystem.h:49: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/DSP/IDSPEffect.h:25: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Music/Music.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound2D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/Sound3D.h:33: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Sound/SoundSample.h:31: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream.h:38: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream2D.h:32: warning: Found unknown command `\detail'
+C:/myPrograms/FMODWrapper/Stream/Stream3D.h:32: warning: Found unknown command `\detail'

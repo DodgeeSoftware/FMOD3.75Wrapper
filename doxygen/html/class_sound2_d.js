@@ -1,0 +1,26 @@
+var class_sound2_d =
+[
+    [ "Sound2D", "class_sound2_d.html#a2a201698aeac97dbe9392c2ad66fd5c0", null ],
+    [ "~Sound2D", "class_sound2_d.html#a99165b308cc0c3fde85e968342d51871", null ],
+    [ "Sound2D", "class_sound2_d.html#a72cb88abbb47ed7ac6832181bc8369f9", null ],
+    [ "getMaxDistance", "class_sound2_d.html#a778493e054aea5d7aa770bf1917b5295", null ],
+    [ "getMinDistance", "class_sound2_d.html#ab00c659ad9467a245ccdf454724eb606", null ],
+    [ "getX", "class_sound2_d.html#a4ddb5b147f047eb817b7e6257f1d2c51", null ],
+    [ "getXVelocity", "class_sound2_d.html#af54e3fef2b0319bc0a4e3b047c2e7848", null ],
+    [ "getY", "class_sound2_d.html#ac0a51d3b26add600f4b7e855dbd1fdda", null ],
+    [ "getYVelocity", "class_sound2_d.html#aab1a0c34ce47085bc031b929ab6b45f4", null ],
+    [ "operator=", "class_sound2_d.html#aa5a8f99888bfdac7adcf45b9d602ebf7", null ],
+    [ "play", "class_sound2_d.html#a596b9353deb52764490c825a22a65161", null ],
+    [ "playEx", "class_sound2_d.html#a4ebd0b2c40ddcafc389a7499f53c2ab9", null ],
+    [ "setMaxDistance", "class_sound2_d.html#aab692c59241b5c9b3f0afe390f859bbd", null ],
+    [ "setMinDistance", "class_sound2_d.html#ab72e268352ba1dbac66c152ce7566423", null ],
+    [ "setMinMaxDistance", "class_sound2_d.html#aed90018ffee4773ade5612bf62a4056a", null ],
+    [ "setPosition", "class_sound2_d.html#a9274f7e39afde2be12ab5cd80c70bd6c", null ],
+    [ "setVelocity", "class_sound2_d.html#a00357a8db46db58b9cd40ee5a5bba1e4", null ],
+    [ "maxDistance", "class_sound2_d.html#a563c4d2da182189562a838891c2e8626", null ],
+    [ "minDistance", "class_sound2_d.html#a72f4169d95d4b3f521abe9d3bd763502", null ],
+    [ "x", "class_sound2_d.html#a1d3391ec381887051954a6b609edd6c6", null ],
+    [ "xVelocity", "class_sound2_d.html#ab7f52658606489e78facd47089d83cc4", null ],
+    [ "y", "class_sound2_d.html#a9179c27db07410be7308e716ef8bebe1", null ],
+    [ "yVelocity", "class_sound2_d.html#a29e96d8010ee0dd60a62c63d6e2322cf", null ]
+];
