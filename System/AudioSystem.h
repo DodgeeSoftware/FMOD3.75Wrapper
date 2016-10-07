@@ -51,8 +51,6 @@ extern "C"
     get important information about the driver, record audio, play cds and
     add DSP (Digital Signal Processing) to the Audio Pipeline (for effects like
     echo) **/
-
-/**  **/
 class AudioSystem
 {
     // ******************************

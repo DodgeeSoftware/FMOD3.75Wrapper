@@ -31,6 +31,30 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="DSP/DSPEffectEcho.cpp" />
+		<Unit filename="DSP/DSPEffectEcho.h" />
+		<Unit filename="DSP/IDSPEffect.cpp" />
+		<Unit filename="DSP/IDSPEffect.h" />
+		<Unit filename="FMODGlobals.h" />
+		<Unit filename="GameAudio.h" />
+		<Unit filename="Music/Music.cpp" />
+		<Unit filename="Music/Music.h" />
+		<Unit filename="Sound/Sound.cpp" />
+		<Unit filename="Sound/Sound.h" />
+		<Unit filename="Sound/Sound2D.cpp" />
+		<Unit filename="Sound/Sound2D.h" />
+		<Unit filename="Sound/Sound3D.cpp" />
+		<Unit filename="Sound/Sound3D.h" />
+		<Unit filename="Sound/SoundSample.cpp" />
+		<Unit filename="Sound/SoundSample.h" />
+		<Unit filename="Stream/Stream.cpp" />
+		<Unit filename="Stream/Stream.h" />
+		<Unit filename="Stream/Stream2D.cpp" />
+		<Unit filename="Stream/Stream2D.h" />
+		<Unit filename="Stream/Stream3D.cpp" />
+		<Unit filename="Stream/Stream3D.h" />
+		<Unit filename="System/AudioSystem.cpp" />
+		<Unit filename="System/AudioSystem.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
