@@ -1,2 +1,2 @@
 # FMOD3.75Wrapper
-FMOD3.75Wrapper
+FMOD3.75Wrapper: This is a very neat tidy wrapper around FMOD3.75 that I have used up until quite recently. FMOD3.75 was the last good version of FMOD, I must use the newer versions because the FMOD3.75 binary library files no longer work with MAC. I would use Open source sound libraries its just there are no good ones out there. This wrapper is NOT just a replica of the C++ wrapper that comes out of the box. This is a more game oriented wrapper that greatly simplifies the API.
